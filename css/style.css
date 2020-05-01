@@ -1,0 +1,38 @@
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 80px 0;
+}
+
+.bg-primary{
+  background-color: #36383A !important;
+}
+
+.entry-name {
+  font-weight: 400;
+}
+
+.details p {
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+
+.title {
+  text-align: center;
+}
+
+.date {
+  text-align: right;
+}
+
+.description ul {
+  padding-left: 2vw;
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+.contact-type {
+  font-weight: 400;
+}
